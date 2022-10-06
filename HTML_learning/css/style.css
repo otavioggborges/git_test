@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 21px;
+    font-family: 'Courier New';
+}
+
+p {
+    color: orange;
+}
+
+h1 {
+    font-size: 60px;
+    color: pink;
+}
